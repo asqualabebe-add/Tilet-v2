@@ -2,7 +2,7 @@
 /* CSS Document */
 	
 	body{background: url(images/11edited.jpg) repeat-y fixed top right ;
-	width: 90%;
+	width: 60%;
 	border-top: 3px solid white;
 	padding-top: 50px;
 	padding-bottom: 10px;
@@ -226,3 +226,4 @@ table span{padding-top: 20px;
 	#footer{color: black;
 
 text-decoration: underline;}
+
